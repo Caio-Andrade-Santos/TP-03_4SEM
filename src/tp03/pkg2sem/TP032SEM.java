@@ -9,7 +9,7 @@ import java.awt.event.*;
 
 /**
  *
- * @author cavia
+ * Autores Alexandre Zampieri e Caio Andrade
  */
 public class TP032SEM {
 
