@@ -17,7 +17,7 @@ public class TP032SEM {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        new FormPessoa();
+        new FormPessoa3();
     }
     
 }
